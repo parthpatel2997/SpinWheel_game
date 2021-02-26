@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+    text-align: center;
+    position: relative;
+}          
+
+.vertical-center a img{
+    margin-top: 220px;
+    max-width: width auto;
+    height:auto;
+}
+  
